@@ -91,6 +91,6 @@ RUN rm instl.txt
 
 ### Version control
 
-# RUN apt-get install -y subversion git
+RUN apt-get install -y subversion git
 
 
